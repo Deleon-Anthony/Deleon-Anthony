@@ -2,6 +2,16 @@
 Computer Information Systems
 
 <h2>🐍 Python :</h2> 
+I am currently learning Python and building projects to demonstrate my understanding of programming concepts and how they can be applied to solve real-world problems. This section will showcases my journey, starting with beginner friendly exercises and progressing to more advanced practical applications. I hope that this can also work as a learning source for others.
+
+&nbsp;
+
+<b> Current Lesson :</b>
+
+---
+
+<b> Python Fundamentals :</b>
+&nbsp;This section includes beginner friendly Python projects that focus on building a strong foundation in programming.
 
 <!--
 **Deleon-Anthony/Deleon-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
