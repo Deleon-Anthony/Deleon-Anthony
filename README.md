@@ -1,7 +1,8 @@
 ## Hi, I'm Anthony 
 Computer Information Systems
 
-<h2>👨‍💻 Python :</h2>
+<h2>🐍 Python :</h2> 
+
 <!--
 **Deleon-Anthony/Deleon-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
