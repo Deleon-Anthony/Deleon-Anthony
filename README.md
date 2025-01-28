@@ -13,6 +13,7 @@ I am currently learning Python and building projects to demonstrate my understan
 <b> Python Fundamentals :</b>
 &nbsp;This section includes beginner friendly Python projects that focus on building a strong foundation in programming.
 - [Variables, Strings, Numbers, and Comments](https://github.com/Deleon-Anthony/python-variables)
+- [List, Loops, and If Statements](https://github.com/Deleon-Anthony/python-basics)
 
 <!--
 **Deleon-Anthony/Deleon-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
