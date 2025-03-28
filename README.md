@@ -6,7 +6,7 @@ I am currently learning Python and building projects to demonstrate my understan
 
 &nbsp;
 
-<b> Current Lesson :</b>
+
 
 ---
 
