@@ -1,8 +1,10 @@
 ## Hi, I'm Anthony 
-Computer Information Systems
+📚 Computer Information Systems | 💻 Aspiring IT & Tech Professional
 
 ---
 <h2>🎓 Certifications and Badges</h2>
+
+---
 
 <h2>🐍 Python :</h2> 
 I am currently learning Python and building projects to demonstrate my understanding of programming concepts and how they can be applied to solve real-world problems. This section will showcases my journey, starting with beginner friendly exercises and progressing to more advanced practical applications. I hope that this can also work as a learning source for others.
