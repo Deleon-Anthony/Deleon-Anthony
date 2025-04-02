@@ -4,14 +4,14 @@
 ---
 <h2>🎓 Certifications and Badges</h2>
 
-- Cisco
-- Salesforce
+- **Cisco**
+- **Salesforce**
 
 
 ---
 <h2> 🛠️ Projects</h2>
 
-- [Python](https://github.com/Deleon-Anthony/python)
+- [**Python**](https://github.com/Deleon-Anthony/python)
 - 
 
 
