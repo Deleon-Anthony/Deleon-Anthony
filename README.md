@@ -4,8 +4,8 @@
 ---
 <h2>🎓 Certifications and Badges</h2>
 
-- **Cisco**
-- **Salesforce**
+- [**Cisco**](https://github.com/Deleon-Anthony/cisco)
+- [**Salesforce**](https://github.com/Deleon-Anthony/salesforce)
 
 
 ---
