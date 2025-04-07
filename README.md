@@ -4,8 +4,8 @@
 ---
 <h2>🎓 Certifications and Badges</h2>
 
-- [**Cisco**](https://github.com/Deleon-Anthony/cisco)
-- [**Salesforce**](https://github.com/Deleon-Anthony/salesforce) - Focused on learning Salesforce Flows and automation tools to streamline CRM processes and support scalable business solutions.
+- [**Cisco**](https://github.com/Deleon-Anthony/cisco) - *Studying networking fundamentals and IoT through Cisco NetAcad to understand modern connected systems.*
+- [**Salesforce**](https://github.com/Deleon-Anthony/salesforce) - *Focused on learning Salesforce Flows and automation tools to streamline CRM processes and support scalable business solutions.*
 
 
 ---
