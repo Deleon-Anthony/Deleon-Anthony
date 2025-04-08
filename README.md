@@ -11,8 +11,8 @@
 ---
 <h2> 🛠️ Projects</h2>
 
-- [**Python**](https://github.com/Deleon-Anthony/python)
-- 
+- [**Python**](https://github.com/Deleon-Anthony/python) - *Applying Python to build a strong base in programming, logic, and problem solving for real-world use cases.*
+  
 
 
 
