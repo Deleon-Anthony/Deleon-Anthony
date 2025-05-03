@@ -11,7 +11,7 @@
 ---
 <h2> 🛠️ Projects</h2>
 
-- [**Salesforce**](https://github.com/Deleon-Anthony/salesforceprojects)
+- [**Salesforce**](https://github.com/Deleon-Anthony/salesforceprojects) - *Using Flows and automation tools to build real-world CRM and service management processes.*
 - [**Python**](https://github.com/Deleon-Anthony/python) - *Applying Python to build a strong base in programming, logic, and problem solving for real-world use cases.*
 <!--
 **Deleon-Anthony/Deleon-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
